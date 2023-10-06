@@ -1,4 +1,4 @@
-# hacktoberfest 2022 contributions are accepted :)
+# hacktoberfest 2023 contributions are accepted :)
 
 How to contribute:
 1. Fork the repo.
